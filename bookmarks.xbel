@@ -4443,9 +4443,6 @@
           <title>https://julialedur.github.io/freddie-mercurys-voice/</title>
         </bookmark>
       </folder>
-      <bookmark href="https://www.coursera.org/" id="1054">
-        <title>Coursera</title>
-      </bookmark>
       <bookmark href="https://mike-s-school-fb12.thinkific.com/enrollments" id="1206">
         <title>logikbot</title>
       </bookmark>
@@ -4616,9 +4613,6 @@
       </folder>
       <folder id="1770">
         <title>Google - Exams</title>
-        <bookmark href="https://www.coursera.org/professional-certificates/google-cloud-digital-leader-training" id="1792">
-          <title>Digital Leader Training</title>
-        </bookmark>
         <bookmark href="https://www.cloudskillsboost.google/paths/183" id="1793">
           <title>Google - Generative AI for Developers Learning Path</title>
         </bookmark>
@@ -4631,6 +4625,9 @@
         <bookmark href="https://www.cloudskillsboost.google/paths/28" id="1796">
           <title>Google - BI and Analytics with Looker</title>
         </bookmark>
+        <bookmark href="https://www.coursera.org/professional-certificates/google-cloud-digital-leader-training" id="1792">
+          <title>Digital Leader Training</title>
+        </bookmark>
       </folder>
       <bookmark href="https://github.com/stefan-jansen/machine-learning-for-trading/blob/main/22_deep_reinforcement_learning/04_q_learning_for_trading.ipynb" id="1776">
         <title>machine-learning-for-trading/22_deep_reinforcement_learning/04_q_learning_for_trading.ipynb at main · stefan-jansen/machine-learning-for-trading</title>
@@ -4640,6 +4637,9 @@
       </bookmark>
       <bookmark href="https://www.udacity.com/course/deep-learning-nanodegree--nd101" id="1781">
         <title>Deep Learning Online Training Course | Udacity</title>
+      </bookmark>
+      <bookmark href="https://www.coursera.org/" id="1054">
+        <title>Coursera</title>
       </bookmark>
     </folder>
     <folder id="608">
