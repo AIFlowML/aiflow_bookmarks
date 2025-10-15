@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1907: for Floccus bookmark sync browser extension -->
+<!--- highestId :1908: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://pro.twitter.com/i/decks/1800483749286830089" id="1">
   <title>X Pro</title>
@@ -205,6 +205,9 @@
         </bookmark>
       </folder>
     </folder>
+    <bookmark href="https://github.com/albatros1k/crunchie-v2" id="1908">
+      <title>albatros1k/crunchie-v2: CRUNCHIE: Your on-chain companion</title>
+    </bookmark>
   </folder>
 </folder>
 <folder id="4">
@@ -1285,7 +1288,7 @@
         </bookmark>
       </folder>
       <folder id="382">
-        <title>Scraping </title>
+        <title>Scraping</title>
         <bookmark href="https://www.firecrawl.dev/pricing" id="413">
           <title>Firecrawl</title>
         </bookmark>
@@ -1324,7 +1327,7 @@
         </bookmark>
       </folder>
       <folder id="386">
-        <title>CRYPTO </title>
+        <title>CRYPTO</title>
         <bookmark href="https://etherscan.io/myapikey" id="422">
           <title>Etherscan Client Portal and Services</title>
         </bookmark>
@@ -1681,7 +1684,7 @@
         <title>Ubuntu 22.04 LTS with Nvidia GeForce RTX 4090 and CUDA 12.x | by RickyYang | Jan, 2024 | DevOps.dev</title>
       </bookmark>
       <folder id="554">
-        <title>ZT - Links </title>
+        <title>ZT - Links</title>
         <bookmark href="http://10.147.18.155:5555/#/experiments/0?searchFilter=&amp;orderByKey=attributes.start_time&amp;orderByAsc=false&amp;startTime=ALL&amp;lifecycleFilter=Active&amp;modelVersionFilter=All+Runs&amp;datasetsFilter=W10%3D" id="621">
           <title>MLflow</title>
         </bookmark>
@@ -2274,7 +2277,7 @@
           </bookmark>
         </folder>
         <folder id="1692">
-          <title>TS - Articles </title>
+          <title>TS - Articles</title>
           <bookmark href="https://medium.com/@mkk.rakesh/time-series-forecasting-using-autogluon-34f8780b8214" id="1725">
             <title>Time Series Forecasting using AutoGluon. | by Rakesh M K | Feb, 2024 | Medium</title>
           </bookmark>
@@ -4441,7 +4444,7 @@
         </bookmark>
       </folder>
       <bookmark href="https://www.coursera.org/" id="1054">
-        <title>Coursera </title>
+        <title>Coursera</title>
       </bookmark>
       <bookmark href="https://mike-s-school-fb12.thinkific.com/enrollments" id="1206">
         <title>logikbot</title>
@@ -4614,7 +4617,7 @@
       <folder id="1770">
         <title>Google - Exams</title>
         <bookmark href="https://www.coursera.org/professional-certificates/google-cloud-digital-leader-training" id="1792">
-          <title> Digital Leader Training </title>
+          <title>Digital Leader Training</title>
         </bookmark>
         <bookmark href="https://www.cloudskillsboost.google/paths/183" id="1793">
           <title>Google - Generative AI for Developers Learning Path</title>
