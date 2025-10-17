@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1908: for Floccus bookmark sync browser extension -->
+<!--- highestId :1928: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://pro.twitter.com/i/decks/1800483749286830089" id="1">
   <title>X Pro</title>
@@ -51,6 +51,12 @@
     <title>Customers</title>
     <bookmark href="https://app.agentops.ai/projects" id="57">
       <title>AgentOps Dashboard</title>
+    </bookmark>
+    <bookmark href="https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3Fstate%3DhashArgs%2523%26isauthcode%3Dtrue&amp;client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fhomepage&amp;forceMobileApp=0&amp;code_challenge=u1m-bpNqN4IyusMfwhSQHcqXoEKAMT4YsPlV7dV4Q80&amp;code_challenge_method=SHA-256" id="1909">
+      <title>Amazon Web Services Sign-In</title>
+    </bookmark>
+    <bookmark href="https://campaigns.datai.network/" id="1910">
+      <title>CRUNCHIE: Your on-chain companion</title>
     </bookmark>
   </folder>
   <bookmark href="https://dashboard.emailjs.com/admin" id="19">
@@ -1587,6 +1593,36 @@
       <bookmark href="https://selfcarespid.aruba.it/#/selfcare/identity" id="1271">
         <title>SPID Aruba</title>
       </bookmark>
+      <folder id="1911">
+        <title>Scraping </title>
+        <bookmark href="https://www.firecrawl.dev/pricing" id="1915">
+          <title>Firecrawl</title>
+        </bookmark>
+      </folder>
+      <folder id="1912">
+        <title>CRYPTO </title>
+        <bookmark href="https://etherscan.io/myapikey" id="1916">
+          <title>Etherscan Client Portal and Services</title>
+        </bookmark>
+        <bookmark href="https://moralis.io/api/wallet/" id="1917">
+          <title>The ultimate API for building Web3 Wallets</title>
+        </bookmark>
+        <bookmark href="https://web3auth.io/" id="1918">
+          <title>Web3Auth - Key Management SDKs with MPC and AA enabled</title>
+        </bookmark>
+        <bookmark href="https://arcana.network/" id="1919">
+          <title>Arcana Network | Web3 Authentication &amp; Chain Abstraction</title>
+        </bookmark>
+        <bookmark href="https://www.privy.io/" id="1920">
+          <title>Privy | Onboard all your users to web3</title>
+        </bookmark>
+        <bookmark href="https://tor.us/" id="1921">
+          <title>Torus Labs | Open-Source Key Management</title>
+        </bookmark>
+        <bookmark href="https://app.openlogin.com/v4/" id="1922">
+          <title>OpenLogin</title>
+        </bookmark>
+      </folder>
     </folder>
     <folder id="359">
       <title>HK</title>
@@ -1725,6 +1761,18 @@
       <bookmark href="http://192.168.132.1/webfig/#IP:ARP.ARP_List.29" id="676">
         <title>MikroTik - ARP List at admin@192.168.132.1 - Webfig v7.14.3 (stable) on RB5009UG+S+ (arm64)</title>
       </bookmark>
+      <folder id="1913">
+        <title>ZT - Links </title>
+        <bookmark href="http://10.147.18.155:5555/#/experiments/0?searchFilter=&amp;orderByKey=attributes.start_time&amp;orderByAsc=false&amp;startTime=ALL&amp;lifecycleFilter=Active&amp;modelVersionFilter=All+Runs&amp;datasetsFilter=W10%3D" id="1923">
+          <title>MLflow</title>
+        </bookmark>
+        <bookmark href="http://10.147.18.155:8086/orgs/700ffddc304797ce/load-data/buckets" id="1924">
+          <title>Buckets | Load Data | aiflowml | InfluxDB</title>
+        </bookmark>
+        <bookmark href="https://10.147.18.155:9443/#!/home" id="1925">
+          <title>Portainer</title>
+        </bookmark>
+      </folder>
     </folder>
     <folder id="399">
       <title>Eve_predict</title>
@@ -2444,6 +2492,18 @@
         <bookmark href="https://pypi.org/project/Riskfolio-Lib/" id="1907">
           <title>Riskfolio-Lib · PyPI</title>
         </bookmark>
+        <folder id="1914">
+          <title>TS - Articles </title>
+          <bookmark href="https://medium.com/@mkk.rakesh/time-series-forecasting-using-autogluon-34f8780b8214" id="1926">
+            <title>Time Series Forecasting using AutoGluon. | by Rakesh M K | Feb, 2024 | Medium</title>
+          </bookmark>
+          <bookmark href="https://sunkusowmyasree.medium.com/pytimetk-time-series-analysis-package-a6e3c44dd3a5" id="1927">
+            <title>PyTimeTK — Time Series Analysis Package | by sunku sowmya Sree | Medium</title>
+          </bookmark>
+          <bookmark href="https://medium.datadriveninvestor.com/intelligent-stock-screening-using-large-language-models-5a896c457799" id="1928">
+            <title>How to Find the Best Stocks in the Stock Market Using AI | by Austin Starks | Feb, 2024 | DataDrivenInvestor</title>
+          </bookmark>
+        </folder>
       </folder>
       <folder id="931">
         <title>EsVE</title>
@@ -4626,7 +4686,7 @@
           <title>Google - BI and Analytics with Looker</title>
         </bookmark>
         <bookmark href="https://www.coursera.org/professional-certificates/google-cloud-digital-leader-training" id="1792">
-          <title>Digital Leader Training</title>
+          <title> Digital Leader Training </title>
         </bookmark>
       </folder>
       <bookmark href="https://github.com/stefan-jansen/machine-learning-for-trading/blob/main/22_deep_reinforcement_learning/04_q_learning_for_trading.ipynb" id="1776">
@@ -4639,7 +4699,7 @@
         <title>Deep Learning Online Training Course | Udacity</title>
       </bookmark>
       <bookmark href="https://www.coursera.org/" id="1054">
-        <title>Coursera</title>
+        <title>Coursera </title>
       </bookmark>
     </folder>
     <folder id="608">
