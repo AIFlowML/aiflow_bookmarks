@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1928: for Floccus bookmark sync browser extension -->
+<!--- highestId :1929: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://pro.twitter.com/i/decks/1800483749286830089" id="1">
   <title>X Pro</title>
@@ -213,6 +213,9 @@
     </folder>
     <bookmark href="https://github.com/albatros1k/crunchie-v2" id="1908">
       <title>albatros1k/crunchie-v2: CRUNCHIE: Your on-chain companion</title>
+    </bookmark>
+    <bookmark href="https://github.com/Datai-Network/datai_api_v3" id="1929">
+      <title>Datai-Network/datai_api_v3</title>
     </bookmark>
   </folder>
 </folder>
