@@ -58,6 +58,147 @@
     <bookmark href="https://campaigns.datai.network/" id="1910">
       <title>CRUNCHIE: Your on-chain companion</title>
     </bookmark>
+    <folder id="23">
+      <title>DATAI</title>
+      <bookmark href="https://dash.cloudflare.com/" id="59">
+        <title>Cloudflare Dashboard | Manage Your Account</title>
+      </bookmark>
+      <folder id="60">
+        <title>📊 Server Monitoring - DATAI Network</title>
+        <folder id="66">
+          <title>🔹 dev_01 (Development)</title>
+          <bookmark href="https://grafana-dev01.datai.network/" id="84">
+            <title>📊 Grafana - dev_01</title>
+          </bookmark>
+          <bookmark href="https://portainer-dev01.datai.network/" id="85">
+            <title>🐳 Portainer - dev_01</title>
+          </bookmark>
+          <bookmark href="https://netdata-dev01.datai.network/" id="86">
+            <title>📈 Netdata - dev_01</title>
+          </bookmark>
+          <bookmark href="https://prometheus-dev01.datai.network/graph" id="87">
+            <title>🔍 Prometheus - dev_01</title>
+          </bookmark>
+          <bookmark href="https://cadvisor-dev01.datai.network/" id="88">
+            <title>📦 cAdvisor - dev_01</title>
+          </bookmark>
+        </folder>
+        <folder id="67">
+          <title>🔹 mrln_2_API (Merlin API 2)</title>
+          <bookmark href="https://grafana-mrln2.datai.network/" id="89">
+            <title>📊 Grafana - mrln_2</title>
+          </bookmark>
+          <bookmark href="https://portainer-mrln2.datai.network/" id="90">
+            <title>🐳 Portainer - mrln_2</title>
+          </bookmark>
+          <bookmark href="https://netdata-mrln2.datai.network/" id="91">
+            <title>📈 Netdata - mrln_2</title>
+          </bookmark>
+          <bookmark href="https://prometheus-mrln2.datai.network/graph" id="92">
+            <title>🔍 Prometheus - mrln_2</title>
+          </bookmark>
+          <bookmark href="https://cadvisor-mrln2.datai.network/" id="93">
+            <title>📦 cAdvisor - mrln_2</title>
+          </bookmark>
+        </folder>
+        <folder id="68">
+          <title>🔹 mrln_3_API (Merlin API 3)</title>
+          <bookmark href="https://grafana-mrln3.datai.network/" id="94">
+            <title>📊 Grafana - mrln_3</title>
+          </bookmark>
+          <bookmark href="https://portainer-mrln3.datai.network/" id="95">
+            <title>🐳 Portainer - mrln_3</title>
+          </bookmark>
+          <bookmark href="https://netdata-mrln3.datai.network/" id="96">
+            <title>📈 Netdata - mrln_3</title>
+          </bookmark>
+          <bookmark href="https://prometheus-mrln3.datai.network/graph" id="97">
+            <title>🔍 Prometheus - mrln_3</title>
+          </bookmark>
+          <bookmark href="https://cadvisor-mrln3.datai.network/" id="98">
+            <title>📦 cAdvisor - mrln_3</title>
+          </bookmark>
+        </folder>
+        <folder id="69">
+          <title>🔹 mrln_4_API (Merlin API 4)</title>
+          <bookmark href="https://grafana-mrln4.datai.network/" id="99">
+            <title>📊 Grafana - mrln_4</title>
+          </bookmark>
+          <bookmark href="https://portainer-mrln4.datai.network/" id="100">
+            <title>🐳 Portainer - mrln_4</title>
+          </bookmark>
+          <bookmark href="https://netdata-mrln4.datai.network/" id="101">
+            <title>📈 Netdata - mrln_4</title>
+          </bookmark>
+          <bookmark href="https://prometheus-mrln4.datai.network/graph" id="102">
+            <title>🔍 Prometheus - mrln_4</title>
+          </bookmark>
+          <bookmark href="https://cadvisor-mrln4.datai.network/" id="103">
+            <title>📦 cAdvisor - mrln_4</title>
+          </bookmark>
+        </folder>
+        <folder id="70">
+          <title>🔹 aws_prod_api (AWS Production API)</title>
+          <bookmark href="https://grafana-awsapi.datai.network/" id="104">
+            <title>📊 Grafana - aws_api</title>
+          </bookmark>
+          <bookmark href="https://portainer-awsapi.datai.network/" id="105">
+            <title>🐳 Portainer - aws_api</title>
+          </bookmark>
+          <bookmark href="https://netdata-awsapi.datai.network/" id="106">
+            <title>📈 Netdata - aws_api</title>
+          </bookmark>
+          <bookmark href="https://prometheus-awsapi.datai.network/graph" id="107">
+            <title>🔍 Prometheus - aws_api</title>
+          </bookmark>
+          <bookmark href="https://cadvisor-awsapi.datai.network/" id="108">
+            <title>📦 cAdvisor - aws_api</title>
+          </bookmark>
+        </folder>
+        <folder id="71">
+          <title>🔹 aws_prod_zerion (AWS Zerion)</title>
+          <bookmark href="https://grafana-awszerion.datai.network/" id="109">
+            <title>📊 Grafana - aws_zerion</title>
+          </bookmark>
+          <bookmark href="https://portainer-awszerion.datai.network/" id="110">
+            <title>🐳 Portainer - aws_zerion</title>
+          </bookmark>
+          <bookmark href="https://netdata-awszerion.datai.network/" id="111">
+            <title>📈 Netdata - aws_zerion</title>
+          </bookmark>
+          <bookmark href="https://prometheus-awszerion.datai.network/graph" id="112">
+            <title>🔍 Prometheus - aws_zerion</title>
+          </bookmark>
+          <bookmark href="https://cadvisor-awszerion.datai.network/" id="113">
+            <title>📦 cAdvisor - aws_zerion</title>
+          </bookmark>
+        </folder>
+        <folder id="72">
+          <title>🔹 agent_vps (Agent VPS)</title>
+          <bookmark href="https://grafana-agent.datai.network/" id="114">
+            <title>📊 Grafana - agent</title>
+          </bookmark>
+          <bookmark href="https://portainer-agent.datai.network/" id="115">
+            <title>🐳 Portainer - agent</title>
+          </bookmark>
+          <bookmark href="https://netdata-agent.datai.network/" id="116">
+            <title>📈 Netdata - agent</title>
+          </bookmark>
+          <bookmark href="https://prometheus-agent.datai.network/graph" id="117">
+            <title>🔍 Prometheus - agent</title>
+          </bookmark>
+          <bookmark href="https://cadvisor-agent.datai.network/" id="118">
+            <title>📦 cAdvisor - agent</title>
+          </bookmark>
+        </folder>
+      </folder>
+      <bookmark href="https://github.com/albatros1k/crunchie-v2" id="1908">
+        <title>albatros1k/crunchie-v2: CRUNCHIE: Your on-chain companion</title>
+      </bookmark>
+      <bookmark href="https://github.com/Datai-Network/datai_api_v3" id="1929">
+        <title>Datai-Network/datai_api_v3</title>
+      </bookmark>
+    </folder>
   </folder>
   <bookmark href="https://dashboard.emailjs.com/admin" id="19">
     <title>Email Services - EmailJS</title>
@@ -77,147 +218,6 @@
 </folder>
 <folder id="3">
   <title>Customers</title>
-  <folder id="23">
-    <title>DATAI</title>
-    <bookmark href="https://dash.cloudflare.com/" id="59">
-      <title>Cloudflare Dashboard | Manage Your Account</title>
-    </bookmark>
-    <folder id="60">
-      <title>📊 Server Monitoring - DATAI Network</title>
-      <folder id="66">
-        <title>🔹 dev_01 (Development)</title>
-        <bookmark href="https://grafana-dev01.datai.network/" id="84">
-          <title>📊 Grafana - dev_01</title>
-        </bookmark>
-        <bookmark href="https://portainer-dev01.datai.network/" id="85">
-          <title>🐳 Portainer - dev_01</title>
-        </bookmark>
-        <bookmark href="https://netdata-dev01.datai.network/" id="86">
-          <title>📈 Netdata - dev_01</title>
-        </bookmark>
-        <bookmark href="https://prometheus-dev01.datai.network/graph" id="87">
-          <title>🔍 Prometheus - dev_01</title>
-        </bookmark>
-        <bookmark href="https://cadvisor-dev01.datai.network/" id="88">
-          <title>📦 cAdvisor - dev_01</title>
-        </bookmark>
-      </folder>
-      <folder id="67">
-        <title>🔹 mrln_2_API (Merlin API 2)</title>
-        <bookmark href="https://grafana-mrln2.datai.network/" id="89">
-          <title>📊 Grafana - mrln_2</title>
-        </bookmark>
-        <bookmark href="https://portainer-mrln2.datai.network/" id="90">
-          <title>🐳 Portainer - mrln_2</title>
-        </bookmark>
-        <bookmark href="https://netdata-mrln2.datai.network/" id="91">
-          <title>📈 Netdata - mrln_2</title>
-        </bookmark>
-        <bookmark href="https://prometheus-mrln2.datai.network/graph" id="92">
-          <title>🔍 Prometheus - mrln_2</title>
-        </bookmark>
-        <bookmark href="https://cadvisor-mrln2.datai.network/" id="93">
-          <title>📦 cAdvisor - mrln_2</title>
-        </bookmark>
-      </folder>
-      <folder id="68">
-        <title>🔹 mrln_3_API (Merlin API 3)</title>
-        <bookmark href="https://grafana-mrln3.datai.network/" id="94">
-          <title>📊 Grafana - mrln_3</title>
-        </bookmark>
-        <bookmark href="https://portainer-mrln3.datai.network/" id="95">
-          <title>🐳 Portainer - mrln_3</title>
-        </bookmark>
-        <bookmark href="https://netdata-mrln3.datai.network/" id="96">
-          <title>📈 Netdata - mrln_3</title>
-        </bookmark>
-        <bookmark href="https://prometheus-mrln3.datai.network/graph" id="97">
-          <title>🔍 Prometheus - mrln_3</title>
-        </bookmark>
-        <bookmark href="https://cadvisor-mrln3.datai.network/" id="98">
-          <title>📦 cAdvisor - mrln_3</title>
-        </bookmark>
-      </folder>
-      <folder id="69">
-        <title>🔹 mrln_4_API (Merlin API 4)</title>
-        <bookmark href="https://grafana-mrln4.datai.network/" id="99">
-          <title>📊 Grafana - mrln_4</title>
-        </bookmark>
-        <bookmark href="https://portainer-mrln4.datai.network/" id="100">
-          <title>🐳 Portainer - mrln_4</title>
-        </bookmark>
-        <bookmark href="https://netdata-mrln4.datai.network/" id="101">
-          <title>📈 Netdata - mrln_4</title>
-        </bookmark>
-        <bookmark href="https://prometheus-mrln4.datai.network/graph" id="102">
-          <title>🔍 Prometheus - mrln_4</title>
-        </bookmark>
-        <bookmark href="https://cadvisor-mrln4.datai.network/" id="103">
-          <title>📦 cAdvisor - mrln_4</title>
-        </bookmark>
-      </folder>
-      <folder id="70">
-        <title>🔹 aws_prod_api (AWS Production API)</title>
-        <bookmark href="https://grafana-awsapi.datai.network/" id="104">
-          <title>📊 Grafana - aws_api</title>
-        </bookmark>
-        <bookmark href="https://portainer-awsapi.datai.network/" id="105">
-          <title>🐳 Portainer - aws_api</title>
-        </bookmark>
-        <bookmark href="https://netdata-awsapi.datai.network/" id="106">
-          <title>📈 Netdata - aws_api</title>
-        </bookmark>
-        <bookmark href="https://prometheus-awsapi.datai.network/graph" id="107">
-          <title>🔍 Prometheus - aws_api</title>
-        </bookmark>
-        <bookmark href="https://cadvisor-awsapi.datai.network/" id="108">
-          <title>📦 cAdvisor - aws_api</title>
-        </bookmark>
-      </folder>
-      <folder id="71">
-        <title>🔹 aws_prod_zerion (AWS Zerion)</title>
-        <bookmark href="https://grafana-awszerion.datai.network/" id="109">
-          <title>📊 Grafana - aws_zerion</title>
-        </bookmark>
-        <bookmark href="https://portainer-awszerion.datai.network/" id="110">
-          <title>🐳 Portainer - aws_zerion</title>
-        </bookmark>
-        <bookmark href="https://netdata-awszerion.datai.network/" id="111">
-          <title>📈 Netdata - aws_zerion</title>
-        </bookmark>
-        <bookmark href="https://prometheus-awszerion.datai.network/graph" id="112">
-          <title>🔍 Prometheus - aws_zerion</title>
-        </bookmark>
-        <bookmark href="https://cadvisor-awszerion.datai.network/" id="113">
-          <title>📦 cAdvisor - aws_zerion</title>
-        </bookmark>
-      </folder>
-      <folder id="72">
-        <title>🔹 agent_vps (Agent VPS)</title>
-        <bookmark href="https://grafana-agent.datai.network/" id="114">
-          <title>📊 Grafana - agent</title>
-        </bookmark>
-        <bookmark href="https://portainer-agent.datai.network/" id="115">
-          <title>🐳 Portainer - agent</title>
-        </bookmark>
-        <bookmark href="https://netdata-agent.datai.network/" id="116">
-          <title>📈 Netdata - agent</title>
-        </bookmark>
-        <bookmark href="https://prometheus-agent.datai.network/graph" id="117">
-          <title>🔍 Prometheus - agent</title>
-        </bookmark>
-        <bookmark href="https://cadvisor-agent.datai.network/" id="118">
-          <title>📦 cAdvisor - agent</title>
-        </bookmark>
-      </folder>
-    </folder>
-    <bookmark href="https://github.com/albatros1k/crunchie-v2" id="1908">
-      <title>albatros1k/crunchie-v2: CRUNCHIE: Your on-chain companion</title>
-    </bookmark>
-    <bookmark href="https://github.com/Datai-Network/datai_api_v3" id="1929">
-      <title>Datai-Network/datai_api_v3</title>
-    </bookmark>
-  </folder>
 </folder>
 <folder id="4">
   <title>Partners</title>
