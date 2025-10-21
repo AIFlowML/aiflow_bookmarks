@@ -41,23 +41,8 @@
       <title>Airwallex</title>
     </bookmark>
   </folder>
-  <bookmark href="https://mail.google.com/mail/u/1/#inbox" id="16">
-    <title>Inbox (3) - ilessio@aiflowlabs.io - AIflow Labs Limited Mail</title>
-  </bookmark>
-  <bookmark href="https://admin.google.com/u/4/?pli=1&amp;rapt=AEjHL4PCgTHjaP5NT0bjDCwG-2xch3guT9efhqv_9xgUDV_9qpsAHhXvgbjalCT1Ugy0KWl6thdbd54UwOymjcnujHIWJEIUGGbArdOXkjT7pc6Nr4Frquc" id="17">
-    <title>Workspace - Admin console</title>
-  </bookmark>
   <folder id="18">
     <title>Customers</title>
-    <bookmark href="https://app.agentops.ai/projects" id="57">
-      <title>AgentOps Dashboard</title>
-    </bookmark>
-    <bookmark href="https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3Fstate%3DhashArgs%2523%26isauthcode%3Dtrue&amp;client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fhomepage&amp;forceMobileApp=0&amp;code_challenge=u1m-bpNqN4IyusMfwhSQHcqXoEKAMT4YsPlV7dV4Q80&amp;code_challenge_method=SHA-256" id="1909">
-      <title>Amazon Web Services Sign-In</title>
-    </bookmark>
-    <bookmark href="https://campaigns.datai.network/" id="1910">
-      <title>CRUNCHIE: Your on-chain companion</title>
-    </bookmark>
     <folder id="23">
       <title>DATAI</title>
       <bookmark href="https://dash.cloudflare.com/" id="59">
@@ -198,8 +183,29 @@
       <bookmark href="https://github.com/Datai-Network/datai_api_v3" id="1929">
         <title>Datai-Network/datai_api_v3</title>
       </bookmark>
+      <bookmark href="https://app.agentops.ai/projects" id="57">
+        <title>AgentOps Dashboard</title>
+      </bookmark>
+      <bookmark href="https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3Fstate%3DhashArgs%2523%26isauthcode%3Dtrue&amp;client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fhomepage&amp;forceMobileApp=0&amp;code_challenge=u1m-bpNqN4IyusMfwhSQHcqXoEKAMT4YsPlV7dV4Q80&amp;code_challenge_method=SHA-256" id="1909">
+        <title>Amazon Web Services Sign-In</title>
+      </bookmark>
+      <bookmark href="https://campaigns.datai.network/" id="1910">
+        <title>CRUNCHIE: Your on-chain companion</title>
+      </bookmark>
     </folder>
   </folder>
+  <folder id="22">
+    <title>Travels</title>
+    <bookmark href="https://www.hkexpress.com/en" id="58">
+      <title>HK Express</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://mail.google.com/mail/u/1/#inbox" id="16">
+    <title>Inbox (3) - ilessio@aiflowlabs.io - AIflow Labs Limited Mail</title>
+  </bookmark>
+  <bookmark href="https://admin.google.com/u/4/?pli=1&amp;rapt=AEjHL4PCgTHjaP5NT0bjDCwG-2xch3guT9efhqv_9xgUDV_9qpsAHhXvgbjalCT1Ugy0KWl6thdbd54UwOymjcnujHIWJEIUGGbArdOXkjT7pc6Nr4Frquc" id="17">
+    <title>Workspace - Admin console</title>
+  </bookmark>
   <bookmark href="https://dashboard.emailjs.com/admin" id="19">
     <title>Email Services - EmailJS</title>
   </bookmark>
@@ -209,12 +215,6 @@
   <bookmark href="https://www.kimi.com/chat/d2omgd7kgnursrsk90ig" id="21">
     <title>Kimi | Kimi Slides</title>
   </bookmark>
-  <folder id="22">
-    <title>Travels</title>
-    <bookmark href="https://www.hkexpress.com/en" id="58">
-      <title>HK Express</title>
-    </bookmark>
-  </folder>
 </folder>
 <folder id="3">
   <title>Customers</title>
