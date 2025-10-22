@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1934: for Floccus bookmark sync browser extension -->
+<!--- highestId :1935: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://pro.twitter.com/i/decks/1800483749286830089" id="1">
   <title>X Pro</title>
@@ -217,6 +217,9 @@
   </bookmark>
   <bookmark href="https://c.zhenweiexpo.com/web-reg-server/pc/vistor-register.html?EID=E0000000439&amp;target=1&amp;orgnum=1164&amp;pid=1069&amp;version=2&amp;cid=8236&amp;ctid=22#/receipt/norm" id="1934">
     <title>visitor Registration</title>
+  </bookmark>
+  <bookmark href="https://admin.google.com/u/1/?rapt=AEjHL4O0vgc-Q9WF1Lr5JMH1xCkoefYQcrGEFxQqioIO_7pqYZX3SQOGe_RQ5FDhZO5QTw22e2omMetidG12mu2N-poxxgwFPQ_sfdSF6s_3zTRigPODcr8" id="1935">
+    <title>Admin console</title>
   </bookmark>
 </folder>
 <folder id="3">
