@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1945: for Floccus bookmark sync browser extension -->
+<!--- highestId :1946: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://pro.twitter.com/i/decks/1800483749286830089" id="1">
   <title>X Pro</title>
@@ -238,6 +238,9 @@
   </bookmark>
   <bookmark href="https://arena.colosseum.org/profiles/aiflowlabs" id="1940">
     <title>Colosseum</title>
+  </bookmark>
+  <bookmark href="https://cs.mfa.gov.cn/lgk1/202511/t20251103_11746081.shtml" id="1946">
+    <title>关于延长单方面免签政策的通知</title>
   </bookmark>
 </folder>
 <folder id="3">
