@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1946: for Floccus bookmark sync browser extension -->
+<!--- highestId :1947: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://pro.twitter.com/i/decks/1800483749286830089" id="1">
   <title>X Pro</title>
@@ -206,6 +206,9 @@
       </folder>
       <bookmark href="https://app.scrapeless.com/cto/products/browser/session-detail?completedAt=1970-01-01T00%3A00%3A00Z&amp;duration=0&amp;profileId=undefined&amp;profileName=undefined&amp;runningAt=2025-11-02T15%3A22%3A46.879Z&amp;state=processing&amp;taskId=21796f7d-dc53-4c61-ad8b-4c97e0d92c43&amp;name=positions_0xd8dA6BF2" id="1944">
         <title>Effortless Web Scraping Toolkit - Scrapeless</title>
+      </bookmark>
+      <bookmark href="https://vercel.com/alberts-projects-2f97bcd7/crunchie-v2" id="1947">
+        <title>crunchie-v2 - Overview – Vercel</title>
       </bookmark>
     </folder>
   </folder>
