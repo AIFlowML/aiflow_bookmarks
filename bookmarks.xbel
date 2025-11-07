@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1948: for Floccus bookmark sync browser extension -->
+<!--- highestId :1950: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://pro.twitter.com/i/decks/1800483749286830089" id="1">
   <title>X Pro</title>
@@ -24,6 +24,9 @@
     </bookmark>
     <bookmark href="https://github.com/smtg-ai/claude-squad" id="53">
       <title>GitHub - smtg-ai/claude-squad: Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.</title>
+    </bookmark>
+    <bookmark href="https://claudecodeplugins.net/" id="1949">
+      <title>Claude Code Plugin Directory - Discover &amp; Install Plugins</title>
     </bookmark>
   </folder>
   <folder id="14">
@@ -248,6 +251,9 @@
   <bookmark href="https://cs.mfa.gov.cn/lgk1/202511/t20251103_11746081.shtml" id="1946">
     <title>关于延长单方面免签政策的通知</title>
   </bookmark>
+  <folder id="1950">
+    <title>Claude Code</title>
+  </folder>
 </folder>
 <folder id="3">
   <title>Customers</title>
