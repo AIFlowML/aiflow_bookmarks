@@ -224,6 +224,12 @@
       <title>HK Express</title>
     </bookmark>
   </folder>
+  <folder id="1952">
+    <title>Model Providers</title>
+    <bookmark href="https://z.ai/manage-apikey/apikey-list" id="1951">
+      <title>Z.ai - Inspiring AGI to Benefit Humanity</title>
+    </bookmark>
+  </folder>
   <bookmark href="https://mail.google.com/mail/u/1/#inbox" id="16">
     <title>Inbox (3) - ilessio@aiflowlabs.io - AIflow Labs Limited Mail</title>
   </bookmark>
@@ -239,12 +245,6 @@
   <bookmark href="https://www.kimi.com/chat/d2omgd7kgnursrsk90ig" id="21">
     <title>Kimi | Kimi Slides</title>
   </bookmark>
-  <folder id="1952">
-    <title>Model Providers</title>
-    <bookmark href="https://z.ai/manage-apikey/apikey-list" id="1951">
-      <title>Z.ai - Inspiring AGI to Benefit Humanity</title>
-    </bookmark>
-  </folder>
   <bookmark href="https://c.zhenweiexpo.com/web-reg-server/pc/vistor-register.html?EID=E0000000439&amp;target=1&amp;orgnum=1164&amp;pid=1069&amp;version=2&amp;cid=8236&amp;ctid=22#/receipt/norm" id="1934">
     <title>visitor Registration</title>
   </bookmark>
@@ -257,9 +257,6 @@
   <bookmark href="https://cs.mfa.gov.cn/lgk1/202511/t20251103_11746081.shtml" id="1946">
     <title>关于延长单方面免签政策的通知</title>
   </bookmark>
-  <folder id="1950">
-    <title>Claude Code</title>
-  </folder>
 </folder>
 <folder id="3">
   <title>Customers</title>
