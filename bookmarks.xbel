@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1954: for Floccus bookmark sync browser extension -->
+<!--- highestId :1955: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://pro.twitter.com/i/decks/1800483749286830089" id="1">
   <title>X Pro</title>
@@ -15,6 +15,9 @@
     </bookmark>
     <bookmark href="https://chat.z.ai/" id="1954">
       <title>Z.ai Chat - Free AI powered by GLM-4.6 &amp; GLM-4.5</title>
+    </bookmark>
+    <bookmark href="https://claude.ai/" id="1955">
+      <title>Claude</title>
     </bookmark>
   </folder>
   <folder id="13">
