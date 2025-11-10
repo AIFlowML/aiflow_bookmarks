@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1952: for Floccus bookmark sync browser extension -->
+<!--- highestId :1953: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://pro.twitter.com/i/decks/1800483749286830089" id="1">
   <title>X Pro</title>
 </bookmark>
 <folder id="2">
   <title>AIFlow Labs</title>
+  <folder id="1953">
+    <title>AI Tools We Own</title>
+    <bookmark href="https://www.kimi.com/chat/d2omgd7kgnursrsk90ig" id="21">
+      <title>Kimi | Kimi Slides</title>
+    </bookmark>
+  </folder>
   <folder id="13">
     <title>Claude Code</title>
     <bookmark href="https://www.aitmpl.com/" id="49">
@@ -241,9 +247,6 @@
   </bookmark>
   <bookmark href="https://aiflowlabs.io/" id="20">
     <title>aiflowlabs.io - AI Solutions for Tomorrow&apos;s Business</title>
-  </bookmark>
-  <bookmark href="https://www.kimi.com/chat/d2omgd7kgnursrsk90ig" id="21">
-    <title>Kimi | Kimi Slides</title>
   </bookmark>
   <bookmark href="https://c.zhenweiexpo.com/web-reg-server/pc/vistor-register.html?EID=E0000000439&amp;target=1&amp;orgnum=1164&amp;pid=1069&amp;version=2&amp;cid=8236&amp;ctid=22#/receipt/norm" id="1934">
     <title>visitor Registration</title>
