@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1956: for Floccus bookmark sync browser extension -->
+<!--- highestId :1957: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://pro.twitter.com/i/decks/1800483749286830089" id="1">
   <title>X Pro</title>
@@ -295,6 +295,9 @@
   </folder>
   <bookmark href="https://docs.polymarket.com/api-reference/comments/list-comments" id="1956">
     <title>List comments - Polymarket Documentation</title>
+  </bookmark>
+  <bookmark href="https://docs.kalshi.com/welcome" id="1957">
+    <title>Introduction - API Documentation</title>
   </bookmark>
 </folder>
 <folder id="4">
