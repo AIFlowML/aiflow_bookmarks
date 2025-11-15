@@ -326,21 +326,6 @@
   <bookmark href="https://github.com/elizaos-plugins" id="26">
     <title>ElizaOS Plugins</title>
   </bookmark>
-  <folder id="27">
-    <title>DATAI</title>
-    <bookmark href="https://app.pinata.cloud/ipfs/files" id="61">
-      <title>Pinata | Effortless IPFS File Management</title>
-    </bookmark>
-    <bookmark href="http://localhost:3000/project/cmbm8msyu0007mq07tr80mhjw/setup" id="62">
-      <title>Langfuse</title>
-    </bookmark>
-    <bookmark href="http://localhost:3000/project/cmbm8msyu0007mq07tr80mhjw/traces" id="63">
-      <title>Problem loading page</title>
-    </bookmark>
-    <bookmark href="https://alpha.meetcamille.ai/" id="64">
-      <title>Camille (Alpha) - data-powered DeFi and Web3 AI agent</title>
-    </bookmark>
-  </folder>
   <bookmark href="https://datai.network/docs/developers/developing-your-first-projection/" id="28">
     <title>🚀 Develop your first projection</title>
   </bookmark>
