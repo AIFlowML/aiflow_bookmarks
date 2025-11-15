@@ -22,6 +22,9 @@
     <bookmark href="https://www.minimax.io/" id="1964">
       <title>MiniMax</title>
     </bookmark>
+    <bookmark href="https://z.ai/manage-apikey/apikey-list" id="1951">
+      <title>Z.ai - Inspiring AGI to Benefit Humanity</title>
+    </bookmark>
   </folder>
   <folder id="13">
     <title>Claude Code</title>
@@ -237,12 +240,6 @@
     <title>Travels</title>
     <bookmark href="https://www.hkexpress.com/en" id="58">
       <title>HK Express</title>
-    </bookmark>
-  </folder>
-  <folder id="1952">
-    <title>Model Providers</title>
-    <bookmark href="https://z.ai/manage-apikey/apikey-list" id="1951">
-      <title>Z.ai - Inspiring AGI to Benefit Humanity</title>
     </bookmark>
   </folder>
   <bookmark href="https://mail.google.com/mail/u/1/#inbox" id="16">
