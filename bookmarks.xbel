@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1964: for Floccus bookmark sync browser extension -->
+<!--- highestId :1981: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://pro.twitter.com/i/decks/1800483749286830089" id="1">
   <title>X Pro</title>
@@ -24,6 +24,27 @@
     </bookmark>
     <bookmark href="https://z.ai/manage-apikey/apikey-list" id="1951">
       <title>Z.ai - Inspiring AGI to Benefit Humanity</title>
+    </bookmark>
+    <folder id="1965">
+      <title>Design - Prototype</title>
+      <bookmark href="https://lovable.dev/" id="1976">
+        <title>Lovable</title>
+      </bookmark>
+      <bookmark href="https://bolt.new/" id="1977">
+        <title>Bolt AI builder: Websites, apps &amp; prototypes</title>
+      </bookmark>
+    </folder>
+    <folder id="1966">
+      <title>From - Customers</title>
+      <bookmark href="https://bolt.new/" id="1978">
+        <title>Bolt AI builder: Websites, apps &amp; prototypes</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://app.factory.ai/" id="1967">
+      <title>Factory</title>
+    </bookmark>
+    <bookmark href="https://bolt.new/" id="1968">
+      <title>Bolt AI builder: Websites, apps &amp; prototypes</title>
     </bookmark>
   </folder>
   <folder id="13">
@@ -266,6 +287,30 @@
   <bookmark href="https://cs.mfa.gov.cn/lgk1/202511/t20251103_11746081.shtml" id="1946">
     <title>关于延长单方面免签政策的通知</title>
   </bookmark>
+  <folder id="1969">
+    <title>GitHub - Repos</title>
+    <bookmark href="https://github.com/settings/profile" id="1979">
+      <title>AIFlow Labs Limited</title>
+    </bookmark>
+  </folder>
+  <folder id="1970">
+    <title>Building Tools Aid</title>
+    <bookmark href="https://github.com/fulcrumresearch/quibbler" id="1980">
+      <title>fulcrumresearch/quibbler</title>
+    </bookmark>
+  </folder>
+  <folder id="1971">
+    <title>Robots</title>
+    <bookmark href="https://github.com/pollen-robotics/reachy_mini" id="1981">
+      <title>pollen-robotics/reachy_mini: Reachy Mini&apos;s SDK</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://app.netlify.com/teams/ilessio/projects" id="1972">
+    <title>ilessio | Netlify</title>
+  </bookmark>
+  <bookmark href="https://www.ilovepdf.com/edit-pdf" id="1973">
+    <title>Edit PDF | Online PDF Editor and Form Filler</title>
+  </bookmark>
 </folder>
 <folder id="3">
   <title>Customers</title>
@@ -313,6 +358,12 @@
   </bookmark>
   <bookmark href="https://supabase.com/dashboard/project/dayyzylyxqyagbotddzd" id="1962">
     <title>eve_predics | AIFlow Labs | Supabase</title>
+  </bookmark>
+  <bookmark href="https://admin.moralis.com/api-keys" id="1974">
+    <title>Data APIs | Moralis for Developers</title>
+  </bookmark>
+  <bookmark href="https://cloud.debank.com/" id="1975">
+    <title>DeBank Cloud</title>
   </bookmark>
 </folder>
 <folder id="4">
