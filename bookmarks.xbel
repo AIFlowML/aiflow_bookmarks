@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1987: for Floccus bookmark sync browser extension -->
+<!--- highestId :1988: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://pro.twitter.com/i/decks/1800483749286830089" id="1">
   <title>X Pro</title>
@@ -316,6 +316,9 @@
   </bookmark>
   <bookmark href="https://github.com/AIFlow-Labs-Limited" id="1982">
     <title>AIFlow Labs Limited</title>
+  </bookmark>
+  <bookmark href="https://os.agno.com/" id="1988">
+    <title>Home | Agno</title>
   </bookmark>
 </folder>
 <folder id="3">
