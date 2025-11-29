@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1991: for Floccus bookmark sync browser extension -->
+<!--- highestId :1993: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://pro.twitter.com/i/decks/1800483749286830089" id="1">
   <title>X Pro</title>
@@ -361,6 +361,12 @@
   </bookmark>
   <bookmark href="https://asksurf.ai/" id="1991">
     <title>Surf - Crypto&apos;s Ultimate AI | Surf</title>
+  </bookmark>
+  <bookmark href="https://datai-agno-agent-ui.datai.network/?db_id=fdfd527f-a148-4774-9f07-b20bce8406dc&amp;agent=defi-master-intelligence" id="1992">
+    <title>Agent UI</title>
+  </bookmark>
+  <bookmark href="https://agent-next-agno.datai.network/" id="1993">
+    <title>Crunchie | DeFi Analysis</title>
   </bookmark>
 </folder>
 <folder id="1958">
