@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1994: for Floccus bookmark sync browser extension -->
+<!--- highestId :1995: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://pro.twitter.com/i/decks/1800483749286830089" id="1">
   <title>X Pro</title>
@@ -263,6 +263,12 @@
       <title>HK Express</title>
     </bookmark>
   </folder>
+  <folder id="1995">
+    <title>Amazon - Online</title>
+    <bookmark href="https://www.amazon.com/gp/cart/view.html?ref_=nav_cart" id="1994">
+      <title>Amazon.com Shopping Cart</title>
+    </bookmark>
+  </folder>
   <bookmark href="https://mail.google.com/mail/u/1/#inbox" id="16">
     <title>Inbox (3) - ilessio@aiflowlabs.io - AIflow Labs Limited Mail</title>
   </bookmark>
@@ -319,9 +325,6 @@
   </bookmark>
   <bookmark href="https://os.agno.com/" id="1988">
     <title>Home | Agno</title>
-  </bookmark>
-  <bookmark href="https://www.amazon.com/gp/cart/view.html?ref_=nav_cart" id="1994">
-    <title>Amazon.com Shopping Cart</title>
   </bookmark>
 </folder>
 <folder id="3">
