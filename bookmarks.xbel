@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1996: for Floccus bookmark sync browser extension -->
+<!--- highestId :1997: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://pro.twitter.com/i/decks/1800483749286830089" id="1">
   <title>X Pro</title>
@@ -27,24 +27,27 @@
     </folder>
     <folder id="1985">
       <title>Model Providers</title>
-      <bookmark href="https://chat.z.ai/" id="1954">
-        <title>Z.ai Chat - Free AI powered by GLM-4.6 &amp; GLM-4.5</title>
-      </bookmark>
-      <bookmark href="https://www.kimi.com/chat/d2omgd7kgnursrsk90ig" id="21">
-        <title>Kimi | Kimi Slides</title>
-      </bookmark>
-      <bookmark href="https://www.minimax.io/" id="1964">
-        <title>MiniMax</title>
-      </bookmark>
-      <bookmark href="https://claude.ai/" id="1955">
-        <title>Claude</title>
-      </bookmark>
       <bookmark href="https://app.factory.ai/" id="1967">
         <title>Factory</title>
       </bookmark>
     </folder>
     <bookmark href="https://repoprompt.com/" id="1984">
       <title>Repo Prompt – Iterate on code with powerful AI</title>
+    </bookmark>
+    <bookmark href="https://z.ai/manage-apikey/apikey-list" id="1997">
+      <title>Z.ai - Inspiring AGI to Benefit Humanity</title>
+    </bookmark>
+    <bookmark href="https://chat.z.ai/" id="1954">
+      <title>Z.ai Chat - Free AI powered by GLM-4.6 &amp; GLM-4.5</title>
+    </bookmark>
+    <bookmark href="https://claude.ai/" id="1955">
+      <title>Claude</title>
+    </bookmark>
+    <bookmark href="https://www.kimi.com/chat/d2omgd7kgnursrsk90ig" id="21">
+      <title>Kimi | Kimi Slides</title>
+    </bookmark>
+    <bookmark href="https://www.minimax.io/" id="1964">
+      <title>MiniMax</title>
     </bookmark>
   </folder>
   <folder id="13">
